@@ -1,0 +1,15 @@
+C:\Users\mateu\Documents\AprendendoString\bin\Debug\net7.0\AprendendoString.exe
+C:\Users\mateu\Documents\AprendendoString\bin\Debug\net7.0\AprendendoString.deps.json
+C:\Users\mateu\Documents\AprendendoString\bin\Debug\net7.0\AprendendoString.runtimeconfig.json
+C:\Users\mateu\Documents\AprendendoString\bin\Debug\net7.0\AprendendoString.dll
+C:\Users\mateu\Documents\AprendendoString\bin\Debug\net7.0\AprendendoString.pdb
+C:\Users\mateu\Documents\AprendendoString\obj\Debug\net7.0\AprendendoString.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\AprendendoString\obj\Debug\net7.0\AprendendoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\AprendendoString\obj\Debug\net7.0\AprendendoString.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\AprendendoString\obj\Debug\net7.0\AprendendoString.AssemblyInfo.cs
+C:\Users\mateu\Documents\AprendendoString\obj\Debug\net7.0\AprendendoString.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\AprendendoString\obj\Debug\net7.0\AprendendoString.dll
+C:\Users\mateu\Documents\AprendendoString\obj\Debug\net7.0\refint\AprendendoString.dll
+C:\Users\mateu\Documents\AprendendoString\obj\Debug\net7.0\AprendendoString.pdb
+C:\Users\mateu\Documents\AprendendoString\obj\Debug\net7.0\AprendendoString.genruntimeconfig.cache
+C:\Users\mateu\Documents\AprendendoString\obj\Debug\net7.0\ref\AprendendoString.dll

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace AprendendoString{
 
@@ -51,9 +52,24 @@ namespace AprendendoString{
         Console.WriteLine(divisao[1]);
         Console.WriteLine(divisao[2]);
         Console.WriteLine(divisao[3]);
-        Console.WriteLine(divisao[4]);
+        Console.WriteLine(divisao[4]); // não existe, da erro
 
-        
+        //var resultado = texto.Substring(5,5);
+        var resultado = texto.Substring(5,texto.LastIndexOf("o"));
+        Console.WriteLine(resultado);
+
+        //tirar o espaçamento do começo e do fim da frase
+        Console.WriteLine(texto.Trim());
+
+        //StringBuilder
+        var texto1 = new StringBuilder();
+        texto1.Append("Este texto é um teste");
+        texto1.Append("Este texto é um");
+        texto1.Append("Este texto");
+        texto1.Append("Este");
+
+        texto1.ToString();
+        Console.WriteLine(texto1);
         }
     }
 }
